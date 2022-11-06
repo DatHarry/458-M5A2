@@ -1,0 +1,155 @@
+{
+	"info": {
+		"_postman_id": "19c5cebd-3516-4437-969b-2d8de88ca740",
+		"name": "M5A2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "10601828"
+	},
+	"item": [
+		{
+			"name": "localhost:3000/api/v1/users",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"HarryC\",\n    \"email\": \"3352harry@gmail.com\",\n    \"photo\": \"1.jpg\",\n    \"role\": \"user\",\n    \"password\": \"latte1104\",\n    \"passwordConfirm\": \"latte1104\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:3000/api/v1/users",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"v1",
+						"users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:3000/api/v1/users",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"HaozeC\",\n    \"email\": \"a1s2d3f4@qq.com\",\n    \"photo\": \"2.jpg\",\n    \"role\": \"user\",\n    \"password\": \"mocha1104\",\n    \"passwordConfirm\": \"mocha1104\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:3000/api/v1/users",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"v1",
+						"users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:3000/api/v1/users",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"AnnaC\",\n    \"email\": \"kiss3harry@gmail.com\",\n    \"photo\": \"3.jpg\",\n    \"role\": \"user\",\n    \"password\": \"coldbrew1104\",\n    \"passwordConfirm\": \"coldbrew1104\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:3000/api/v1/users",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"v1",
+						"users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:3000/api/v1/users",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"JerryC\",\n    \"email\": \"9527jerry@gmail.com\",\n    \"photo\": \"4.jpg\",\n    \"role\": \"user\",\n    \"password\": \"batista1104\",\n    \"passwordConfirm\": \"batista1104\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:3000/api/v1/users",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"v1",
+						"users"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "localhost:3000/api/v1/users",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"LexiC\",\n    \"email\": \"1234hlexi@gmail.com\",\n    \"photo\": \"5.jpg\",\n    \"role\": \"user\",\n    \"password\": \"arabica1104\",\n    \"passwordConfirm\": \"arabica1104\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "localhost:3000/api/v1/users",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"v1",
+						"users"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
